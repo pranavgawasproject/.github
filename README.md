@@ -2,12 +2,11 @@
 
 <div align="center">
 
-### 🌍 The Operating System for Digital Nomads
+### 🏥 Building AI-powered tools for healthcare & productivity
 
-I'm a full-stack developer building **RoamIQ** — the all-in-one platform for remote workers to live, work, and thrive anywhere in the world.
+Full-stack developer shipping production apps with React, Node.js, and modern AI tooling.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pranavgawasproject/Nomads_Travel/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/pranavgawasproject/Nomads_Travel?style=social)](https://github.com/pranavgawasproject/Nomads_Travel/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/pranavgawasproject?style=social)](https://github.com/pranavgawasproject)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pranavgawas)
 
 </div>
@@ -16,24 +15,35 @@ I'm a full-stack developer building **RoamIQ** — the all-in-one platform for r
 
 ## 🚀 Featured Project
 
-### 🌎 [RoamIQ](https://github.com/pranavgawasproject/Nomads_Travel)
+### 🏥 [MediCare](https://github.com/pranavgawasproject/medi-care) — Live on Vercel
 
-> **YC W25 Applicant** | The operating system for digital nomads
+> AI-assisted healthcare platform for clinics, hospitals, and small practices.
 
-The all-in-one platform for remote workers — visa intelligence, remote jobs, global listings, workation planning, and community.
+Patient management, appointments, medical records, and AI-powered clinical notes — built to be white-labeled and sold to medical companies.
 
 | Feature | Status |
 |---------|--------|
-| 🛂 AI Visa Intelligence | ✅ |
-| 💼 Remote Job Board | ✅ |
-| 🗺️ Global City Listings | ✅ |
-| 💰 Cost Calculator | ✅ |
-| 📅 Workation Planner | ✅ |
-| 🎉 Events & Community | ✅ |
-| 📝 Trip Tracker | ✅ |
-| ⭐ World Rankings | ✅ |
+| 👤 Patient Records & History | ✅ |
+| 📅 Appointment Scheduling | ✅ |
+| 📋 Medical Records Tracking | ✅ |
+| 🤖 AI Clinical Notes (planned) | 🔜 |
+| 🧠 AI Symptom Triage (planned) | 🔜 |
+| 📊 Clinic Analytics Dashboard | 🔜 |
+| 🔒 HIPAA-ready Data Layer | 🔜 |
+| 🏷️ White-label Theming | 🔜 |
 
-**Tech Stack:** React 19 • Node.js • MongoDB • AWS S3 • Google Maps API
+**Tech Stack:** React 18 • Vite • Tailwind CSS • Node.js + Express • Supabase (Postgres) • Vercel
+
+🔗 **Live:** [medicare-prod.vercel.app](https://medicare-pranav-h3p7kem02-pranavgawasproject-9080s-projects.vercel.app)
+
+---
+
+## 🛠️ Other Projects (Live on Vercel)
+
+- 💬 **[ChatApp](https://github.com/pranavgawasproject/ChatApp)** — Real-time full-stack chat with JWT auth and Socket.io (MERN)
+- 📝 **[Notion](https://github.com/pranavgawasproject/Notion)** — Full-stack Notion API editor (React + Express)
+- 🖼️ **[PixelPerfect](https://github.com/pranavgawasproject/PixelPerfect)** — React 19 image resize/compress tool
+- 🌤️ **[WeatherTrackerX](https://github.com/pranavgawasproject/WeatherTrackerX)** — Weather dashboard with forecasts + historical data
 
 ---
 
@@ -54,35 +64,37 @@ The all-in-one platform for remote workers — visa intelligence, remote jobs, g
 <div>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-6B46C1?style=flat&logo=vite" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat&logo=redux" alt="Redux"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui" alt="MUI"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
 </div>
 
 ### Backend
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io" alt="Socket.io"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens" alt="JWT"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
 </div>
 
-### Infrastructure
+### Infrastructure & AI
 <div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
 </div>
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Current Focus
 
-- 🌎 **Digital Nomad Tools** — Building the OS for remote work
-- 🛂 **Visa & Immigration Tech** — Simplifying complex visa rules
-- 📱 **SaaS Products** — Chrome extensions, web apps
-- 🤖 **AI Integration** — Smart search and recommendations
+- 🏥 **Healthcare SaaS** — Building MediCare into a sellable, white-label product
+- 🤖 **AI in clinical workflows** — Notes, triage, summarization
+- 💬 **Real-time apps** — WebSockets, Supabase Realtime, live collaboration
+- 📦 **Shipped-fast development** — Every project goes from idea → production on Vercel
 
 ---
 
@@ -93,22 +105,14 @@ The all-in-one platform for remote workers — visa intelligence, remote jobs, g
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pranavgawasproject)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pranavgawas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavgawas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@roamiq.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pranavgawas.project@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Fun Fact
-
-> "I believe the future of work is location-independent. Everyone deserves the tools to work from anywhere."
-
----
-
 <div align="center">
 
-**⭐ Star my projects if you find them useful!**
-
-**Built with ❤️ for the global nomad community**
+**⭐ Star a repo if it helped you build something!**
 
 </div>
